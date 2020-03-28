@@ -16,7 +16,7 @@ Power consumption is about 130 mA @12V.
    1. Item xb
    
 Attenuator table for 1% resistors
-Attenuation |R2 | R1, R3
+Attn. |R2 | R1, R3
 ------------ | ------------- | ---------
 3 dB| 17.8Ω | 294Ω
 6 dB| 37.4Ω | 150Ω
