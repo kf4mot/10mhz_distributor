@@ -14,6 +14,12 @@ Power consumption is about 130 mA @12V.
 1. Item x
    1. Item xa
    1. Item xb
+   
+Attenuator Table
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
