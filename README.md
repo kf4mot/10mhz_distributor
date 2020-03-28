@@ -1,7 +1,7 @@
 # 10mhz_distributor
 **Work in progress**
 
-A 10 Mhz 3 channel distribution amplifier and low pass filter integrated in a BG7TBL GPSDO. A 5th. order LPF on both the inputs and outputs allows the input to come from either sine or square waves and produce a sine output of around 10 dBm.
+A 10 Mhz 3 channel distribution amplifier and low pass filter designed to integrate in a BG7TBL GPSDO. A 5th. order LPF on both the inputs and outputs allows the input to come from either sine or square waves and produce a sine output of around 10 dBm.
 
 *This text will be italic*
 
