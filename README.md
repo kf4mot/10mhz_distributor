@@ -30,3 +30,5 @@ Power consumption is about 130 mA @12V.
 ![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg)
 
 ![](https://github.com/kf4mot/10mhz_distributor/blob/master/images/scope-in-out-10mhz.bmp)
+
+![](https://github.com/kf4mot/10mhz_distributor/blob/master/images/scope-in-out-10mhz.jpg)
