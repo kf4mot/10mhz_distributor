@@ -19,7 +19,7 @@ Power consumption is about 130 mA @12V.
 
 [Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/hardware/10mhz_distributor_r1.pdf)
 
-![Complete]ttps://github.com/kf4mot/10mhz_distributor/blob/master/images/finished-gpsdo.jpg "Complete")
+![Complete](https://github.com/kf4mot/10mhz_distributor/blob/master/images/finished-gpsdo.jpg "Complete")
 
 ![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg "Board Top")
 
