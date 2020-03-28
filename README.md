@@ -8,7 +8,7 @@ A 10 MHz 3 channel distribution amplifier and low pass filter designed to integr
 1. Schematic and BOM show The Qorvo TQP369182 as the amp. TQP369180 was the amp actually used on the first board. The extra gain of the 182 seems unnecessary when driven with a 5V square wave and I suspect the extra gain may cause oscillation. Bias resistors remain at 91Ω. Upgrade at your own risk and let me know how it goes if you try.
 1. Pads for a optional attn. are on the input. Untested.
 1. Pads for a optional isolation transformer are on the 3rd. output. Untested.
-1. Jitter and delay are still untested.
+1. Jitter and delay are still untested, but assumed good enough for a inexpensive GPSDO.
 1. Item x
    1. Item xa
    1. Item xb
