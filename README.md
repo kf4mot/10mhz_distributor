@@ -2,8 +2,6 @@
 A 10 MHz 3 channel distribution amplifier and low pass filter designed to integrate into a BG7TBL GPSDO. A 5th. order LPF on both the input and outputs allows it to be driven with either sine or square waves and produce a sine output of around 12 dBm into a 50Ω load.
 Power consumption is about 130 mA @12V.
 
-*This text will be italic*
-
 **Notes worth reading**
 
 1. Schematic and BOM show The Qorvo TQP369182 as the MMIC. TQP369180 was actually used on the first board. The extra gain of the 182 seems unnecessary when driven with a 5V square wave and it may cause oscillation based on past experience. Bias resistors remain at 91Ω. Upgrade at your own risk and let me know how it goes if you try it or any other MMIC.
