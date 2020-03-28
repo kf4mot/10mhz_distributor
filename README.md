@@ -14,7 +14,7 @@ A 10 Mhz 3 channel distribution amplifier and low pass filter designed to integr
 
 http://github.com - automatic!
 
-**![Licensed under CERN-OHL-S V2. Julian White, 2020**](https://www.ohwr.org/project/cernohl/wikis/home)
+![Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
 https://www.ohwr.org/project/cernohl/wikis/home
 
