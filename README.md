@@ -1,5 +1,6 @@
 # 10mhz_distributor
-**Work in progress**
+**Work in progress*
+# ![Image description](link-to-image)
+!
 
-![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
