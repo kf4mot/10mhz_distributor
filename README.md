@@ -1,5 +1,5 @@
 # 10mhz_distributor
-**Work in progress*
+**Work in progress**
 
 *This text will be italic*
 
