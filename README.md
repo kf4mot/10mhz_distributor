@@ -10,6 +10,7 @@ Power consumption is about 130 mA @12V.
 1. Pads for a optional attn. are on the input. Untested.
 1. Pads for a optional isolation transformer are on the 3rd. output. Untested.
 1. Jitter and delay are untested, but assumed good enough for a inexpensive GPSDO. If you build it and have the lab to test please share your results.
+1. I left the input BNC (J5) off of mine and ran a internal wire to the clock output. The BNC could be added by those that want the ability to loop the clock or any other suitable input back into the distribution amp.
 1. Item x
    1. Item xa
    1. Item xb
