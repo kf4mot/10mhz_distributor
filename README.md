@@ -15,12 +15,12 @@ Power consumption is about 130 mA @12V.
    1. Item xa
    1. Item xb
    
-Attenuator Table
+Attenuator table for 1% resistors
 Attenuation |R2 | R1, R3
 ------------ | ------------- | ---------
-3 dB| 1Ω | 2Ω
-6 dB| Ω | Ω
-10 dB | Ω | Ω
+3 dB| 17.8Ω | 294Ω
+6 dB| 37.4Ω | 150Ω
+10 dB | 71.5Ω | 95.3Ω
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
