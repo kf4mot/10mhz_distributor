@@ -16,10 +16,11 @@ Power consumption is about 130 mA @12V.
    1. Item xb
    
 Attenuator Table
-R2 | R1, R3
------------- | -------------
-1Ω | 2Ω
-Content in the first column | Content in the second column
+Attenuation |R2 | R1, R3
+------------ | ------------- | ---------
+3 dB| 1Ω | 2Ω
+6 dB| Ω | Ω
+10 dB | Ω | Ω
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
