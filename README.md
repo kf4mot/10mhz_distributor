@@ -1,5 +1,6 @@
 # 10mhz_distributor
-**Copyright Julian White, 2020**
+**Copyright Julian White, 2020.**
+
 **Licensed under CERN-OHL-S version 2**
 
 A 10 Mhz 3 channel distribution amplifier and low pass filter designed to integrate in a BG7TBL GPSDO. A 5th. order LPF on both the input and outputs allows the input to come from either sine or square waves and produce a sine output of around 10 dBm.
