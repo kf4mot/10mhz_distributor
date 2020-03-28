@@ -20,7 +20,7 @@ Power consumption is about 130 mA @12V.
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
-[Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/10mhz_distributor_r1.pdf)
+[Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/hardware/10mhz_distributor_r1.pdf)
 
 [comment]: # (This actually is the most platform independent comment/needs blank line before)
 
