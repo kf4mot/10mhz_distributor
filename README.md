@@ -10,9 +10,6 @@ Power consumption is about 130 mA @12V.
 1. Jitter and delay are untested, but assumed good enough for a inexpensive GPSDO. If you build it and have the lab to test please share your results.
 1. I left the input BNC (J3) off of mine and ran a internal wire to the GPSDO output. The BNC could be added by those that want the option to loop the clock or any other suitable input back into the distribution amp. Or those that want to use this as a stand alone general purpose distribution amp.
 1. The 50Ω input load (R11) is 0603 size because I happen to have it in my inventory. You could use a 1206 at the R1 position if prefered. Or probably left off altogether if you're driving with a sinewave and bypassing the input filter.
-1. Item x
-   1. Item xa
-   1. Item xb
    
 Attenuator table for 1% resistors
 Attn. |R2 | R1, R3
