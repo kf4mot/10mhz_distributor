@@ -6,7 +6,7 @@ Power consumption is about 130 mA @12V.
 
 **Notes worth reading**
 
-1. Schematic and BOM show The Qorvo TQP369182 as the MMIC. TQP369180 was actually used on the first board. The extra gain of the 182 seems unnecessary when driven with a 5V square wave and I suspect it may cause oscillation. Bias resistors remain at 91Ω. Upgrade at your own risk and let me know how it goes if you try.
+1. Schematic and BOM show The Qorvo TQP369182 as the MMIC. TQP369180 was actually used on the first board. The extra gain of the 182 seems unnecessary when driven with a 5V square wave and I suspect it may cause oscillation. Bias resistors remain at 91Ω. Upgrade at your own risk and let me know how it goes if you try it or any other MMIC.
 1. Pads for a optional attn. are on the input. Untested.
 1. Pads for a optional isolation transformer are on the 3rd. output. Untested.
 1. Jitter and delay are untested, but assumed good enough for a inexpensive GPSDO. If you build it and have the lab to test please share your results.
