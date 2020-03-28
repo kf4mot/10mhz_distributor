@@ -15,7 +15,8 @@ A 10 Mhz 3 channel distribution amplifier and low pass filter integrated in a BG
 
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+
+[Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/10mhz_distributor_r1.pdfhttp://github.com)
 
 [comment]: # (This actually is the most platform independent comment/needs blank line before)
 
