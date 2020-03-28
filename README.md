@@ -18,6 +18,7 @@ Power consumption is about 130 mA @12V.
  **Future Work**
  
  1.
+ 1.
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
