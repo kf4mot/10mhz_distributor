@@ -22,6 +22,8 @@ Attn. |R2 | R1, R3
 6 dB| 37.4Ω | 150Ω
 10 dB | 71.5Ω | 95.3Ω
 
+[Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
+
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
 [Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/hardware/10mhz_distributor_r1.pdf)
