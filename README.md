@@ -21,5 +21,6 @@ http://github.com - automatic!
 
 [comment]: # (This actually is the most platform independent comment/needs blank line before)
 
+![Completed](https://github.com/kf4mot/10mhz_distributor/blob/master/images/finished-gpsdo.jpg)
 
 ![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg)
