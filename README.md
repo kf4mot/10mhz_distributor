@@ -4,7 +4,7 @@ Power consumption is about 130 mA @12V.
 
 [Schematic](https://github.com/kf4mot/10mhz_distributor/blob/master/hardware/10mhz_distributor_r1.pdf)
 
-[Created with KiCAD ver. 5.1.5-3](https://kicad-pcb.org)
+[Created with KiCAD ver. 5.1.5-3](https://kicad.org)
 
 **Notes worth reading**
 
